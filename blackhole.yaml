@@ -8,3 +8,4 @@ payload:
   - DOMAIN-WILDCARD,*.tns-counter.ru
   - DOMAIN,ad.mail.ru
   - DOMAIN,trk.mail.ru
+  - DOMAIN,xray.mail.ru
