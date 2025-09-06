@@ -1,11 +1,12 @@
 payload:
   - GEOSITE,cloudflare
   - GEOSITE,google
-  - GEOIP,cloudflare
-  - GEOIP,google
   - GEOSITE,openai
   - GEOSITE,xai
   - GEOSITE,meta
   - GEOSITE,protonmail
   - GEOSITE,spotify
+  - GEOSITE,netflix
+  - GEOIP,cloudflare
+  - GEOIP,google
   - DOMAIN-SUFFIX,ua
