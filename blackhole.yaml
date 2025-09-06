@@ -3,4 +3,7 @@ payload:
   - DOMAIN-KEYWORD,kaspersky
   - DOMAIN-WILDCARD,*.vk-analytics.ru
   - DOMAIN-WILDCARD,*.adfox.ru
+  - DOMAIN-WILDCARD,*.adriver.ru
+  - DOMAIN-WILDCARD,*.apptracer.ru
   - DOMAIN,ad.mail.ru
+  - DOMAIN,trk.mail.ru
