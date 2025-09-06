@@ -7,4 +7,5 @@ payload:
   - GEOSITE,xai
   - GEOSITE,meta
   - GEOSITE,protonmail
+  - GEOSITE,spotify
   - DOMAIN-SUFFIX,ua
