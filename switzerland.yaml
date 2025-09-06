@@ -1,1 +1,10 @@
-
+payload:
+  - GEOSITE,cloudflare
+  - GEOSITE,google
+  - GEOIP,cloudflare
+  - GEOIP,google
+  - GEOSITE,openai
+  - GEOSITE,xai
+  - GEOSITE,meta
+  - GEOSITE,protonmail
+  - DOMAIN-SUFFIX,ua
