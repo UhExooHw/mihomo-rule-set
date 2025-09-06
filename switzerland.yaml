@@ -11,3 +11,4 @@ payload:
   - GEOIP,cloudflare
   - GEOIP,google
   - DOMAIN-SUFFIX,ua
+  - DOMAIN-KEYWORD,infomaniak
