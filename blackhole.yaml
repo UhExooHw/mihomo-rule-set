@@ -1,3 +1,5 @@
 payload:
   - GEOSITE,category-ads-all
   - DOMAIN-KEYWORD,kaspersky
+  - DOMAIN-WILDCARD,*.vk-analytics.ru
+  - DOMAIN,ad.mail.ru
