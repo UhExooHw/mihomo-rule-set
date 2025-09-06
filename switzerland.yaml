@@ -12,3 +12,4 @@ payload:
   - GEOIP,google
   - DOMAIN-SUFFIX,ua
   - DOMAIN-KEYWORD,infomaniak
+  - DOMAIN,prod.cloudmatchbeta.nvidiagrid.net
