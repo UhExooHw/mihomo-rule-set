@@ -6,6 +6,7 @@ payload:
   - GEOSITE,meta
   - GEOSITE,protonmail
   - GEOSITE,spotify
+  - GEOSITE,discord
   - GEOSITE,netflix
   - GEOIP,cloudflare
   - GEOIP,google
