@@ -13,5 +13,5 @@ payload:
   - DOMAIN-SUFFIX,ua
   - DOMAIN-KEYWORD,infomaniak
   - DOMAIN,prod.cloudmatchbeta.nvidiagrid.net
-  - AND,((DST-PORT,1080),(IP-CIDR,100.64.0.1/32,))
-  - AND,((DST-PORT,1081),(IP-CIDR,100.64.0.2/32,))
+  - AND,((DST-PORT,1080),(IP-CIDR,100.64.0.1/32))
+  - AND,((DST-PORT,1081),(IP-CIDR,100.64.0.2/32))
