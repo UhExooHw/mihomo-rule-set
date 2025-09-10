@@ -9,6 +9,4 @@ payload:
   - GEOSITE,discord
   - GEOSITE,netflix
   - DOMAIN-SUFFIX,ua
-  - AND,((DST-PORT,1080),(IP-CIDR,100.64.0.1/32))
-  - AND,((DST-PORT,1081),(IP-CIDR,100.64.0.2/32))
   - AND,((DOMAIN-KEYWORD,nvidiagrid),(NETWORK,tcp))
